@@ -1,6 +1,6 @@
 class Main {
 
-    public static void Main(String[] args) {
+    public static void main(String[] args) {
         FRCTeamMember m1 = new FRCTeamMember("Aidan", "Programming", 42.5);
         FRCTeamMember m2 = new FRCTeamMember("Oskar", "Electrical", 30.0);
 
